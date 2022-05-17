@@ -6,7 +6,7 @@ class ApacheSparkAT234 < Formula
   sha256 "ba277c2c110043d716348871b56db50b0bc7da07470a80009f1d7655563cecaa"
   head "https://github.com/apache/spark.git"
 
-  bottle :unneeded
+#   bottle :unneeded
 
   depends_on "openjdk@8"
 
