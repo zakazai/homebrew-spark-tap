@@ -6,7 +6,7 @@ class ApacheSparkAT232 < Formula
   sha256 "6246b20d95c7596a29fb26d5b50a3ae3163a35915bec6c515a8e183383bedc43"
   head "https://github.com/apache/spark.git"
 
-  bottle :unneeded
+#   bottle :unneeded
 
   depends_on "openjdk@8"
 
