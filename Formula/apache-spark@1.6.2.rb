@@ -6,7 +6,7 @@ class ApacheSparkAT162 < Formula
   sha256 "bddeccec0fb8ac9491cbb4e320467e9263bcc1caf9b45466164f8ae2d97de710"
   head "https://github.com/apache/spark.git"
 
-  bottle :unneeded
+#   bottle :unneeded
 
   def install
     # Rename beeline to distinguish it from hive's beeline
